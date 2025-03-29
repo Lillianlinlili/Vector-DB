@@ -35,8 +35,15 @@ python main.py
 - [ChromaDB GitHub 仓库](https://github.com/chroma-core/chroma) 
 
 
-## 说明
+## 功能说明 ChromaDB  main.py
 这个简单的示例展示了 ChromaDB 的基本功能：|This simple example demonstrates the basic features of ChromaDB
 文档的存储|Document storage
 向量化处理（自动完成）|Vector processing (automatically completed)
 相似度搜索|Similarity search
+
+## 功能说明 MilvusDB  milvus_example.py
+这个简单的示例展示了 MilvusDB 的基本功能：|This simple example demonstrates the basic features of MilvusDB
+数据库连接 |Database connection
+文本向量化 |Text vectorization
+数据操作 |Data operation
+相似度搜索 |Similarity search
